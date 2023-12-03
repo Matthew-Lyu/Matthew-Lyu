@@ -16,13 +16,14 @@
 - 🎨 **图像处理**：处理和分析图像，从中提取有价值的信息。
 
 ### 项目亮点
-- 🤖 [深度学习项目](链接到你的机器学习项目)
+- 🤖 [深度学习项目](https://github.com/Matthew-Lyu/Plant-Pathology-2021)
 - 🚗 [自动驾驶项目](https://github.com/Matthew-Lyu/AutoDrivingSimulation)
 - 🌐 [分布式系统开发](https://github.com/Dwl2021/MapReduce)
 - 🎨 [图像处理应用](https://github.com/Matthew-Lyu/ImageProcessingAndAnalysis)
 
 ### 联系方式
-- 📧 邮箱：[lvwch@mail2.sysu.edu.cn]
+- 📧 邮箱（个人）：[lyuwch03@gmail.com]
+- 📧 邮箱（企业）：[lvwch@mail2.sysu.edu.cn]
 - 💼 LinkedIn: [404 Not Found]
 - 🐦 Twitter: [404 Not Found]
 
