@@ -1,7 +1,7 @@
 ### 欢迎访问 Matthew Lyu 的 GitHub 主页 👋
 
 ### 关于我
-- 🧑‍🎓 智能科学与技术本科在读 [SUN YAT-SUN University](https://www.sysu.edu.cn)
+- 🧑‍🎓 SYSU智能科学与技术本科在读 [SUN YAT-SUN University](https://www.sysu.edu.cn)
 - 🧑‍💻 机器学习和深度学习爱好者
 - 🚗 自动驾驶技术研究者
 - 🤖 ROS（机器人操作系统）爱好者
