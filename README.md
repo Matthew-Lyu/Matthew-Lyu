@@ -1,5 +1,5 @@
 ![](assets/Bottom_up.svg)
-![](assets/Bottom_bottom.svg)
+![](assets/Bottom_down.svg)
 
 ![](assets/IMG_8098.JPEG)
 
