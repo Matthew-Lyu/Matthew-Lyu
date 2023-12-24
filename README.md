@@ -1,7 +1,8 @@
 ![](assets/Bottom_up.svg)
-![](assets/IMG_8099.JPEG)
 
-### 欢迎访问 Matthew Lyu 的 GitHub 主页 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hello+👋,+我是+Matthew Lyu;+欢迎来到我的主页!;Always+learning+new+things+;Machine+learning+enthusiast+)
+
+![](assets/IMG_8099.JPEG)
 
 ### 关于我
 - 🧑‍🎓 SYSU智能科学与技术本科在读 [SUN YAT-SUN University](https://www.sysu.edu.cn)
