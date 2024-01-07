@@ -16,18 +16,6 @@
 
 - Possesses rich experience in the design and development of distributed systems, striving for excellence in performance and scalability.
 
-### Skills and Professional Interests
-
-- **Machine Learning and Deep Learning**: Constantly exploring new models and algorithms, showcasing profound professional expertise through practical problem-solving.
-
-- **Autonomous Driving**: Committed to enhancing vehicle perception, path planning, and control systems, conceptualizing and implementing safer, smarter transportation solutions.
-
-- **ROS (Robot Operating System)**: Demonstrates a deep understanding of ROS by building complex robotic systems, coordinating tasks while maintaining system stability.
-
-- **Distributed Development**: Holds rich experience in designing and developing distributed systems, emphasizing performance and scalability, dedicated to building efficient distributed applications.
-
-- **Image Processing**: Skilled in processing and analyzing images, extracting valuable information with a professional eye for image processing techniques.
-
 ### Project Highlights
 
 - [Deep Learning Project](https://github.com/Matthew-Lyu/Plant-Pathology-2021): In-depth research and practical implementation of deep learning models to address challenges in plant pathology.
