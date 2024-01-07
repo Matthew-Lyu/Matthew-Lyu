@@ -6,39 +6,37 @@
 
 ### Personal Introduction
 
-- 🧑‍🎓 Undergraduate student majoring in Intelligent Science and Technology at [SUN YAT-SUN University](https://www.sysu.edu.cn).
+- Undergraduate student majoring in Intelligent Science and Technology at [SUN YAT-SUN University](https://www.sysu.edu.cn).
 
-- 🧑‍💻 Passionate about and dedicated to the fields of machine learning and deep learning, with a curiosity for novel models and algorithms, applying theoretical knowledge to real-world problem-solving.
+- Passionate about and dedicated to the fields of machine learning and deep learning, with a curiosity for novel models and algorithms, applying theoretical knowledge to real-world problem-solving.
 
-- 🚗 Specialized in autonomous driving technology research, committed to enhancing vehicle perception, path planning, and control systems for the development of safer and more intelligent transportation systems.
+- Specialized in autonomous driving technology research, committed to enhancing vehicle perception, path planning, and control systems for the development of safer and more intelligent transportation systems.
 
-- 🤖 Enthusiastic about ROS (Robot Operating System), enjoys building complex robotic systems, coordinating the work of various sensors and actuators.
+- Enthusiastic about ROS (Robot Operating System), enjoys building complex robotic systems, coordinating the work of various sensors and actuators.
 
-- 🌐 Possesses rich experience in the design and development of distributed systems, striving for excellence in performance and scalability.
-
-- 🎨 Enthusiastic about classical and modern image processing techniques, skilled in image processing and analysis to extract valuable information.
+- Possesses rich experience in the design and development of distributed systems, striving for excellence in performance and scalability.
 
 ### Skills and Professional Interests
 
-- 🤖 **Machine Learning and Deep Learning**: Constantly exploring new models and algorithms, showcasing profound professional expertise through practical problem-solving.
+- **Machine Learning and Deep Learning**: Constantly exploring new models and algorithms, showcasing profound professional expertise through practical problem-solving.
 
-- 🚗 **Autonomous Driving**: Committed to enhancing vehicle perception, path planning, and control systems, conceptualizing and implementing safer, smarter transportation solutions.
+- **Autonomous Driving**: Committed to enhancing vehicle perception, path planning, and control systems, conceptualizing and implementing safer, smarter transportation solutions.
 
-- 🤖 **ROS (Robot Operating System)**: Demonstrates a deep understanding of ROS by building complex robotic systems, coordinating tasks while maintaining system stability.
+- **ROS (Robot Operating System)**: Demonstrates a deep understanding of ROS by building complex robotic systems, coordinating tasks while maintaining system stability.
 
-- 🌐 **Distributed Development**: Holds rich experience in designing and developing distributed systems, emphasizing performance and scalability, dedicated to building efficient distributed applications.
+- **Distributed Development**: Holds rich experience in designing and developing distributed systems, emphasizing performance and scalability, dedicated to building efficient distributed applications.
 
-- 🎨 **Image Processing**: Skilled in processing and analyzing images, extracting valuable information with a professional eye for image processing techniques.
+- **Image Processing**: Skilled in processing and analyzing images, extracting valuable information with a professional eye for image processing techniques.
 
 ### Project Highlights
 
-- 🤖 [Deep Learning Project](https://github.com/Matthew-Lyu/Plant-Pathology-2021): In-depth research and practical implementation of deep learning models to address challenges in plant pathology.
+- [Deep Learning Project](https://github.com/Matthew-Lyu/Plant-Pathology-2021): In-depth research and practical implementation of deep learning models to address challenges in plant pathology.
 
-- 🚗 [Autonomous Driving Project](https://github.com/Matthew-Lyu/AutoDrivingSimulation): Development of an autonomous driving system, emphasizing the integration and optimization of vehicle perception, path planning, and control.
+- [Autonomous Driving Project](https://github.com/Matthew-Lyu/AutoDrivingSimulation): Development of an autonomous driving system, emphasizing the integration and optimization of vehicle perception, path planning, and control.
 
-- 🌐 [Distributed Systems Development](https://github.com/Dwl2021/MapReduce): Demonstrates a profound understanding of the design and development of distributed systems, constructing efficient and reliable distributed applications.
+- [Distributed Systems Development](https://github.com/Dwl2021/MapReduce): Demonstrates a profound understanding of the design and development of distributed systems, constructing efficient and reliable distributed applications.
 
-- 🎨 [Image Processing Application](https://github.com/Matthew-Lyu/ImageProcessingAndAnalysis): Application of professional image processing techniques to extract and analyze meaningful information from images.
+- [Image Processing Application](https://github.com/Matthew-Lyu/ImageProcessingAndAnalysis): Application of professional image processing techniques to extract and analyze meaningful information from images.
 
 ### Contact Information
 
