@@ -4,45 +4,46 @@
 
 ![](assets/IMG_8099.JPEG)
 
-### 个人简介
+### Personal Introduction
 
-🧑‍🎓 在读本科生，就读于中山大学智能科学与技术专业 [SUN YAT-SUN University](https://www.sysu.edu.cn)。
+- 🧑‍🎓 Undergraduate student majoring in Intelligent Science and Technology at [SUN YAT-SUN University](https://www.sysu.edu.cn).
 
-🧑‍💻 热爱并专攻机器学习和深度学习领域，对新颖模型和算法充满好奇，乐于将理论知识应用于解决实际问题。
+- 🧑‍💻 Passionate about and dedicated to the fields of machine learning and deep learning, with a curiosity for novel models and algorithms, applying theoretical knowledge to real-world problem-solving.
 
-🚗 专注于自动驾驶技术研究，致力于提升车辆感知、路径规划和控制系统，以建设更安全、智能的交通系统。
+- 🚗 Specialized in autonomous driving technology research, committed to enhancing vehicle perception, path planning, and control systems for the development of safer and more intelligent transportation systems.
 
-🤖 对ROS（机器人操作系统）抱有浓厚兴趣，喜欢构建复杂的机器人系统，协调各种传感器和执行器的工作。
+- 🤖 Enthusiastic about ROS (Robot Operating System), enjoys building complex robotic systems, coordinating the work of various sensors and actuators.
 
-🌐 具备丰富的分布式系统设计和开发经验，追求卓越的性能和可扩展性。
+- 🌐 Possesses rich experience in the design and development of distributed systems, striving for excellence in performance and scalability.
 
-🎨 对经典及现代图像处理技术充满热情，擅长处理和分析图像，从中提取有价值的信息。
+- 🎨 Enthusiastic about classical and modern image processing techniques, skilled in image processing and analysis to extract valuable information.
 
-### 技能与专业兴趣
+### Skills and Professional Interests
 
-- 🤖 **机器学习和深度学习**：不断追求新的模型和算法，通过实际问题的解决展现深厚的专业素养。
+- 🤖 **Machine Learning and Deep Learning**: Constantly exploring new models and algorithms, showcasing profound professional expertise through practical problem-solving.
 
-- 🚗 **自动驾驶**：致力于提升车辆感知、路径规划和控制系统，构想并实现更安全、智能的交通解决方案。
+- 🚗 **Autonomous Driving**: Committed to enhancing vehicle perception, path planning, and control systems, conceptualizing and implementing safer, smarter transportation solutions.
 
-- 🤖 **ROS（机器人操作系统）**：通过构建复杂的机器人系统展现对ROS的深刻理解，协调各项任务的同时保持系统稳定运行。
+- 🤖 **ROS (Robot Operating System)**: Demonstrates a deep understanding of ROS by building complex robotic systems, coordinating tasks while maintaining system stability.
 
-- 🌐 **分布式开发**：拥有丰富的分布式系统设计和开发经验，注重性能和可扩展性，致力于构建高效的分布式应用。
+- 🌐 **Distributed Development**: Holds rich experience in designing and developing distributed systems, emphasizing performance and scalability, dedicated to building efficient distributed applications.
 
-- 🎨 **图像处理**：通过处理和分析图像，以专业的眼光提取图像中的有价值信息，展示对图像处理技术的深入理解。
+- 🎨 **Image Processing**: Skilled in processing and analyzing images, extracting valuable information with a professional eye for image processing techniques.
 
-### 项目亮点
+### Project Highlights
 
-- 🤖 [深度学习项目](https://github.com/Matthew-Lyu/Plant-Pathology-2021)：深入研究并实践深度学习模型，解决植物病理学领域的挑战。
+- 🤖 [Deep Learning Project](https://github.com/Matthew-Lyu/Plant-Pathology-2021): In-depth research and practical implementation of deep learning models to address challenges in plant pathology.
 
-- 🚗 [自动驾驶项目](https://github.com/Matthew-Lyu/AutoDrivingSimulation)：开发自动驾驶系统，强调车辆感知、路径规划和控制的整合与优化。
+- 🚗 [Autonomous Driving Project](https://github.com/Matthew-Lyu/AutoDrivingSimulation): Development of an autonomous driving system, emphasizing the integration and optimization of vehicle perception, path planning, and control.
 
-- 🌐 [分布式系统开发](https://github.com/Dwl2021/MapReduce)：展示对分布式系统设计和开发的深刻理解，构建高效可靠的分布式应用。
+- 🌐 [Distributed Systems Development](https://github.com/Dwl2021/MapReduce): Demonstrates a profound understanding of the design and development of distributed systems, constructing efficient and reliable distributed applications.
 
-- 🎨 [图像处理应用](https://github.com/Matthew-Lyu/ImageProcessingAndAnalysis)：应用专业的图像处理技术，从图像中提取并分析有意义的信息。
+- 🎨 [Image Processing Application](https://github.com/Matthew-Lyu/ImageProcessingAndAnalysis): Application of professional image processing techniques to extract and analyze meaningful information from images.
 
-### 联系方式
-- 📧 邮箱（个人）：[lyuwch03@gmail.com]
-- 📧 邮箱（企业）：[lvwch@mail2.sysu.edu.cn]
+### Contact Information
+
+- 📧 Email (Personal): [lyuwch03@gmail.com]
+- 📧 Email (Enterprise): [lvwch@mail2.sysu.edu.cn]
 - 💼 LinkedIn: [404 Not Found]
 - 🐦 Twitter: [404 Not Found]
 
