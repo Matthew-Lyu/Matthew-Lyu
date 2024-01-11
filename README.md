@@ -18,9 +18,7 @@
 
 |                           我的状况                           |                           使用语言                           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![JUSTINAYA's github stats](https://github-readme-stats.vercel.app/api?username=JUSTINAYA&show_icons=true&theme=radical&include_all_commits=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUSTINAYA&theme=radical&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) |
-
-
+| ![MatthewLyu's github stats](https://github-readme-stats.vercel.app/api?username=Matthew-Lyu&show_icons=true&theme=radical&include_all_commits=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Lyu&theme=radical&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) |
 
 <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathhew-Lyu" />
