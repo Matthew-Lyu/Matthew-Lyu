@@ -16,9 +16,9 @@
 
 - Possesses rich experience in the design and development of distributed systems, striving for excellence in performance and scalability.
 
-|                           我的状况                           |                           使用语言                           |
+|                           My Situation                       |                           Language Used                      |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![MatthewLyu's github stats](https://github-readme-stats.vercel.app/api?username=Matthew-Lyu&show_icons=true&theme=radical&include_all_commits=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Lyu&theme=radical&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) |
+| ![MatthewLyu's github stats](https://github-readme-stats.vercel.app/api?username=Matthew-Lyu&show_icons=true&theme=ambient_gradient&include_all_commits=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Lyu&theme=ambient_gradient&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) |
 
 ### Project Highlights
 
