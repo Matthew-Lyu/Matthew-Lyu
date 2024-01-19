@@ -26,16 +26,10 @@
 
 - [Autonomous Driving Project](https://github.com/Matthew-Lyu/AutoDrivingSimulation): Development of an autonomous driving system, emphasizing the integration and optimization of vehicle perception, path planning, and control.
 
-- [Distributed Systems Development](https://github.com/Dwl2021/MapReduce): Demonstrates a profound understanding of the design and development of distributed systems, constructing efficient and reliable distributed applications.
-
-- [Image Processing Application](https://github.com/Matthew-Lyu/ImageProcessingAndAnalysis): Application of professional image processing techniques to extract and analyze meaningful information from images.
-
 ### Contact Information
 
 - 📧 Email (Personal): [lyuwch03@gmail.com]
 - 📧 Email (Enterprise): [lvwch@mail2.sysu.edu.cn]
-- 💼 LinkedIn: [404 Not Found]
-- 🐦 Twitter: [404 Not Found]
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 😊
 
