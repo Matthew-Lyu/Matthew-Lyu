@@ -1,6 +1,6 @@
 ![](assets/Bottom_up.svg)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hello+👋,+I'm+Matthew+Lyu;+Welcome+to+my+Github+profile!;Always+learning+new+things+;Machine+learning+enthusiast+)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hello+👋,+I'm+Matthew+Lyu;+Welcome+to+my+Github+profile!;Always+learning+new+things+;Cybernation+enthusiast+)
 
 ![](assets/IMG_8099.JPEG)
 
