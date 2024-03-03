@@ -22,9 +22,9 @@
 
 ### Project Highlights
 
-- [Deep Learning Project](https://github.com/Matthew-Lyu/Plant-Pathology-2021): In-depth research and practical implementation of deep learning models to address challenges in plant pathology.
-
 - [Autonomous Driving Project](https://github.com/Matthew-Lyu/AutoDrivingSimulation): Development of an autonomous driving system, emphasizing the integration and optimization of vehicle perception, path planning, and control.
+
+- [Deep Learning Project](https://github.com/Matthew-Lyu/Plant-Pathology-2021): In-depth research and practical implementation of deep learning models to address challenges in plant pathology.
 
 ### Contact Information
 
