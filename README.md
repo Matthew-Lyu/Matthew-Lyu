@@ -6,7 +6,7 @@
 
 ### Personal Introduction
 
-- Undergraduate student majoring in Intelligent Science and Technology at [SUN YAT-SUN University](https://www.sysu.edu.cn).
+- Undergraduate student majoring in Intelligent Science and Technology at [Sun Yat-sun University](https://www.sysu.edu.cn).
 
 - Passionate about and dedicated to the fields of machine learning and deep learning, with a curiosity for novel models and algorithms, applying theoretical knowledge to real-world problem-solving.
 
