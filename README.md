@@ -18,7 +18,7 @@
 
 |                           My Stats                           |                           Language Used                      |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![MatthewLyu's github stats](https://github-readme-stats.vercel.app/api?username=Matthew-Lyu&show_icons=true&theme=catppuccin_mocha&include_all_commits=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Lyu&theme=catppuccin_mocha&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) |
+| ![MatthewLyu's github stats](https://github-readme-stats.vercel.app/api?username=Matthew-Lyu&show_icons=true&theme=default&include_all_commits=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Lyu&theme=default&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) |
 
 ### Project Highlights
 
