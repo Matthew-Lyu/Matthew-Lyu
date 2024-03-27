@@ -16,9 +16,12 @@
 
 - Possesses rich experience in the design and development of distributed systems, striving for excellence in performance and scalability.
 
-|                           My Stats                           |                           Language Used                      |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![MatthewLyu's github stats](https://github-readme-stats.vercel.app/api?username=Matthew-Lyu&show_icons=true&theme=default&include_all_commits=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Lyu&theme=default&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) |
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 
 ### Project Highlights
 
