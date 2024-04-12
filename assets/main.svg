@@ -8,11 +8,11 @@
     <style type="text/css">
       @font-face {
         font-family: 'YourFontName';
-        src: url('/Users/LYU/Downloads/hello/linghui.otf') format('opentype');
+        src: url('./linghui.otf') format('opentype');
       }
       .text {
         font-family: 'YourFontName';
-        font-size: 20px;
+        font-size: 50px;
         text-anchor: middle;
         fill: url(#colorfulGradient); /* 应用渐变色 */
       }
