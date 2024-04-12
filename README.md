@@ -1,4 +1,4 @@
-![](assets/Bottom_up.svg)
+![](assets/main.svg)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hello+👋,+I'm+Matthew+Lyu;+Welcome+to+my+Github+profile!;Always+learning+new+things+;Cybernation+enthusiast+)
 
