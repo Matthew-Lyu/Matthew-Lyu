@@ -8,7 +8,7 @@
     <style type="text/css">
       @font-face {
         font-family: 'YourFontName';
-        src: url('./linghui.otf') format('opentype');
+        src: url('linghui.otf') format('opentype');
       }
       .text {
         font-family: 'YourFontName';
