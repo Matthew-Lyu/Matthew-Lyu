@@ -8,7 +8,7 @@
     <style type="text/css">
       @font-face {
         font-family: 'YourFontName';
-        src: url('https://github.com/Matthew-Lyu/Matthew-Lyu/tree/main/assets/linghui.otf') format('opentype');
+        src: url('https://raw.githubusercontent.com/Matthew-Lyu/Matthew-Lyu/main/assets/linghui.otf') format('opentype');
       }
       .text {
         font-family: 'YourFontName';
