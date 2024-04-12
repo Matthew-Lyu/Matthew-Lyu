@@ -21,7 +21,6 @@
 -  Email (Enterprise): [lvwch@mail2.sysu.edu.cn]
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 
-![](assets/Bottom_down.svg)
 
 <!--
 **Matthew-Lyu/Matthew-Lyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
