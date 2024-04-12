@@ -8,11 +8,7 @@
 
 - Undergraduate student majoring in Intelligent Science and Technology at [Sun Yat-sen University](https://www.sysu.edu.cn).
 
-- Passionate about and dedicated to the fields of machine learning and deep learning, with a curiosity for novel models and algorithms, applying theoretical knowledge to real-world problem-solving.
-
-- Specialized in autonomous vehicle technology research, committed to enhancing vehicle perception, path planning, and control systems for the development of safer and more intelligent transportation systems.
-
-- Enthusiastic about ROS (Robot Operating System), enjoys building complex robotic systems, coordinating the work of various sensors and actuators.
+- Immersed in the interdisciplinary field of information science, passionate about multi-modal deep learning, planning and control of autonomous vehicle, and ROS operating system.
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matthew-Lyu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Lyu&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -21,7 +17,7 @@
 
 - [Autonomous Driving Project](https://github.com/Matthew-Lyu/AutoDrivingSimulation): Development of an autonomous driving system, emphasizing the integration and optimization of vehicle perception, path planning, and control.
 
-- [Deep Learning Project](https://github.com/Matthew-Lyu/Plant-Pathology-2021): In-depth research and practical implementation of deep learning models to address challenges in plant pathology.
+- [CV Project](https://github.com/Matthew-Lyu/Plant-Pathology-2021): In-depth research and practical implementation of deep learning models to address challenges in plant pathology.
 
 ### Contact Information
 
