@@ -1,0 +1,22 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="colorfulGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00FFFF;" /> <!-- 青色 -->
+      <stop offset="50%" style="stop-color:#00FF00;" /> <!-- 绿色 -->
+      <stop offset="100%" style="stop-color:#0000FF;" /> <!-- 蓝色 -->
+    </linearGradient>
+    <style type="text/css">
+      @font-face {
+        font-family: 'YourFontName';
+        src: url('./linghui.otf') format('opentype');
+      }
+      .text {
+        font-family: 'YourFontName';
+        font-size: 50px;
+        text-anchor: middle;
+        fill: url(#colorfulGradient); /* 应用渐变色 */
+      }
+    </style>
+  </defs>
+  <text x="300" y="100" class="text">Hello, I'm Matthew Lyu!</text>
+</svg>
