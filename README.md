@@ -8,16 +8,16 @@
 
 - Undergraduate student majoring in Intelligent Science and Technology at [Sun Yat-sen University](https://www.sysu.edu.cn).
 
-- Immersed in the interdisciplinary field of information science, passionate about multi-modal deep learning, planning and control of autonomous vehicle, and ROS operating system.
+- Immersed in the interdisciplinary field of information science, passionate about multi-modal deep learning, path planning and control of autonomous vehicle, and ROS operating system.
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matthew-Lyu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Lyu&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### Project Highlights
 
-- [Autonomous Driving Project](https://github.com/Matthew-Lyu/AutoDrivingSimulation): Development of an autonomous driving system, emphasizing the integration and optimization of vehicle perception, path planning, and control.
+- [Autonomous Driving Project](https://github.com/Matthew-Lyu/AutoDrivingSimulation): Autonomous vehicle simulation based on ROS: Path planning and controller
 
-- [CV Project](https://github.com/Matthew-Lyu/Plant-Pathology-2021): In-depth research and practical implementation of deep learning models to address challenges in plant pathology.
+- [CV Project](https://github.com/Matthew-Lyu/Plant-Pathology-2021): Deep learning approaches solve the fine-grained classification problem in plant leaf pathology.
 
 ### Contact Information
 
