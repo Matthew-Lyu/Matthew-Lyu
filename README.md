@@ -8,7 +8,7 @@
 
 - Undergraduate student majoring in Intelligent Science and Technology at [Sun Yat-sen University](https://www.sysu.edu.cn).
 
-- Immersed in the interdisciplinary field of information science, passionate about multi-modal deep learning, path planning and control of autonomous vehicle, and ROS operating system.
+- Do research on the interdisciplinary field of information science, passionate about multi-modal deep learning, path planning and control of autonomous vehicle, and ROS operating system.
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matthew-Lyu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Lyu&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
