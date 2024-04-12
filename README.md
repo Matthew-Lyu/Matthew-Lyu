@@ -10,11 +10,9 @@
 
 - Passionate about and dedicated to the fields of machine learning and deep learning, with a curiosity for novel models and algorithms, applying theoretical knowledge to real-world problem-solving.
 
-- Specialized in autonomous driving technology research, committed to enhancing vehicle perception, path planning, and control systems for the development of safer and more intelligent transportation systems.
+- Specialized in autonomous vehicle technology research, committed to enhancing vehicle perception, path planning, and control systems for the development of safer and more intelligent transportation systems.
 
 - Enthusiastic about ROS (Robot Operating System), enjoys building complex robotic systems, coordinating the work of various sensors and actuators.
-
-- Possesses rich experience in the design and development of distributed systems, striving for excellence in performance and scalability.
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matthew-Lyu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Lyu&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
