@@ -1,4 +1,4 @@
-![](assets/hello.png)
+![](assets/main.png)
 
 ### 🌱 Personal Introduction
 
