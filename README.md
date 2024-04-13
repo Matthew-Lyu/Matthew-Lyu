@@ -1,5 +1,4 @@
-![](assets/main.png)
-
+![](assets/up.png)
 ### 🌱 Personal Introduction
 
 - Undergraduate student majoring in Intelligent Science and Technology at [Sun Yat-sen University](https://www.sysu.edu.cn).
