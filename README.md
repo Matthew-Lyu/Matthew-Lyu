@@ -25,6 +25,9 @@ Feel free to explore my repositories and don't hesitate to reach out if you have
 
 <!--
 **Matthew-Lyu/Matthew-Lyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://raw.githubusercontent.com/Matthew-Lyu/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Matthew-Lyu/github-stats-transparent/output/generated/languages.svg)
+
 
 Here are some ideas to get you started:
 
