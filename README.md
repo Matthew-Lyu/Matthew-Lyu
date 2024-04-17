@@ -23,6 +23,8 @@
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312yyerl3tqv7prtvq4xqtfwor7m&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=00fdff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 <!--
 **Matthew-Lyu/Matthew-Lyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
