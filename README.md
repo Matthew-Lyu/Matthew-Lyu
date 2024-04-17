@@ -23,10 +23,6 @@
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/312yyerl3tqv7prtvq4xqtfwor7m)
-</div>
-
 <!--
 **Matthew-Lyu/Matthew-Lyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
