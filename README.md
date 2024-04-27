@@ -1,4 +1,4 @@
-![](assets/up_bolt.png)
+![](assets/up3.png)
 ### Personal Introduction
 
 - Undergrad majoring in Intelligent Science and Technology at [Sun Yat-sen University](https://www.sysu.edu.cn).
