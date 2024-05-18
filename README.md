@@ -1,4 +1,4 @@
-![](assets/up.png)
+<img src="assets/up.png" style="zoom:90%;" />
 
 ### Personal Introduction
 
