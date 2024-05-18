@@ -1,4 +1,4 @@
-<img src="assets/up_normal.png" style="zoom:90%;" />
+<img src="assets/up1.1.png" style="zoom:90%;" />
 
 ### Personal Introduction
 
