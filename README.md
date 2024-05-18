@@ -8,9 +8,6 @@
 
 - My aspiration is to ascend the tallest mountains and traverse the longest rivers.
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matthew-Lyu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Lyu&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 ### Project Highlights
 
 - [Autonomous Driving Project](https://github.com/Matthew-Lyu/AutoDrivingSimulation): Autonomous vehicle simulation based on ROS Noetic: path planning and controller.
@@ -24,3 +21,5 @@
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 
 
+<!--| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matthew-Lyu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Lyu&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |-->
