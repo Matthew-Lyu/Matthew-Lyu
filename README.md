@@ -10,9 +10,9 @@
 
 ### <!--Project Highlights-->
 
-- <!--[Autonomous Driving Project](https://github.com/Matthew-Lyu/AutoDrivingSimulation): Autonomous vehicle simulation based on ROS Noetic: path planning and controller.-->
+<!--[Autonomous Driving Project](https://github.com/Matthew-Lyu/AutoDrivingSimulation): Autonomous vehicle simulation based on ROS Noetic: path planning and controller.-->
 
-- <!--[Computer Vision Project](https://github.com/Matthew-Lyu/Plant-Pathology-2021): Deep learning approaches solve the fine-grained classification problem in plant leaf pathology.-->
+<!--[Computer Vision Project](https://github.com/Matthew-Lyu/Plant-Pathology-2021): Deep learning approaches solve the fine-grained classification problem in plant leaf pathology.-->
 
 ### Contact Information
 
