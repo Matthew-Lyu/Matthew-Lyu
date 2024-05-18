@@ -14,7 +14,7 @@
 
 <!--[Computer Vision Project](https://github.com/Matthew-Lyu/Plant-Pathology-2021): Deep learning approaches solve the fine-grained classification problem in plant leaf pathology.-->
 
-### Contact Information 🌱
+### Contact Information 🍃
 
 -  Email (Personal): [lyuwch03@gmail.com]
 -  Email (Enterprise): [lvwch@mail2.sysu.edu.cn]
