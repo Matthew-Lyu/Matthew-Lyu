@@ -1,6 +1,4 @@
-![](assets/up6.png)
-
-<center><div style='height:2mm;'></div><div style="font-family:华文楷体;font-size:12pt;">测试 </div></center>
+![](assets/up1.1.png)
 
 ### Personal Introduction
 
@@ -8,14 +6,14 @@
 
 - Do research on the interdisciplinary field of information science, passionate about multi-modal deep learning, path planning and control of autonomous vehicle, and ROS operating system.
 
-- *My aspiration is to ascend the tallest mountains and traverse the longest rivers.*
+- My aspiration is to ascend the tallest mountains and traverse the longest rivers.
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matthew-Lyu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Lyu&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### Project Highlights
 
-- [Autonomous Driving Project](https://github.com/Matthew-Lyu/AutoDrivingSimulation): Autonomous vehicle simulation based on ROS: path planning and controller.
+- [Autonomous Driving Project](https://github.com/Matthew-Lyu/AutoDrivingSimulation): Autonomous vehicle simulation based on ROS Noetic: path planning and controller.
 
 - [Computer Vision Project](https://github.com/Matthew-Lyu/Plant-Pathology-2021): Deep learning approaches solve the fine-grained classification problem in plant leaf pathology.
 
