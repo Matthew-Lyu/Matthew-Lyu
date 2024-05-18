@@ -1,4 +1,4 @@
-![](assets/up1.1.png)
+![](assets/up.png)
 
 ### Personal Introduction
 
