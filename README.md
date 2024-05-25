@@ -1,14 +1,5 @@
 <img src="assets/up1.1_blue.png" style="zoom:100%;" />
 
-<p align="center">
-<!--   <a href="https://github.com/YanjieZe">
-    <img src="https://img.shields.io/github/followers/YanjieZe?style=social" alt="GitHub followers">
-  </a> -->
-  <a href="https://github.com/YanjieZe">
-    <img src="https://img.shields.io/github/stars/Matthew-Lyu?style=social" alt="GitHub stars">
-  </a>
-</p>
-
 ### Personal Introduction 🏔️
 
 - Undergrad majoring in Intelligent Science and Technology at [Sun Yat-sen University](https://www.sysu.edu.cn).
