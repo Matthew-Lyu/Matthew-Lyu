@@ -4,10 +4,6 @@
 
 ![image-20240714183833574](./assets/ChiBiFu_bold.png)
 
-<!--![image-20240714184502313](./assets/ChiBiFu.png)-->
-
-<!--![image-20240714185148055](./assets/hello_there.png)-->
-
 ### Personal Introduction 🏔️
 
 - Undergrad majoring in Intelligent Science and Technology at [Sun Yat-sen University](https://www.sysu.edu.cn).
@@ -31,3 +27,7 @@ Feel free to explore my repositories and don't hesitate to reach out if you have
 
 <!--| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matthew-Lyu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Lyu&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |-->
+
+<!--![image-20240714184502313](./assets/ChiBiFu.png)-->
+
+<!--![image-20240714185148055](./assets/hello_there.png)-->
