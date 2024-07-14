@@ -2,7 +2,7 @@
 
 <!--![image-20240714183208019](./assets/RenMinWanSui.png)-->
 
-![image-20240714183833574](./assets/ChiBiFu_bold.png)
+<img src="./assets/image-20240714192038908.png" width="650px">
 
 ### Personal Introduction 🏔️
 
@@ -31,3 +31,4 @@ Feel free to explore my repositories and don't hesitate to reach out if you have
 <!--![image-20240714184502313](./assets/ChiBiFu.png)-->
 
 <!--![image-20240714185148055](./assets/hello_there.png)-->
+
