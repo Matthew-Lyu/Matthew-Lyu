@@ -1,8 +1,8 @@
 <!--<img src="assets/ChunJiangHuaYueYe_blue.png" style="zoom:100%;" />-->
-
 <!--![image-20240714183208019](./assets/RenMinWanSui.png)-->
-
+<div align=center>
 <img src="./assets/image-20240714192038908.png" width="650px">
+</div>
 
 ### Personal Introduction 🏔️
 
