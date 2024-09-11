@@ -5,6 +5,8 @@
 <!--<img src="./assets/image-20240714192038908.png" width="650px">-->
 <!--</div>-->
 
+## Hi there👋
+
 ### Personal Introduction 
 
 - Undergrad majoring in Intelligent Science and Technology at [Sun Yat-sen University](https://www.sysu.edu.cn).
