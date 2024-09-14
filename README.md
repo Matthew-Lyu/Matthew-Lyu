@@ -23,9 +23,8 @@
 
 ### Contact Information 
 
--  Github-repo: you can contact me by leaving issue in this [repository](https://github.com/Matthew-Lyu/Matthew-Lyu/)
--  Email (Personal): [lyuwch03@gmail.com]
--  Email (Enterprise): [lvwch@mail2.sysu.edu.cn]
+-  Github-repo: you can contact me by leaving issue in this [repository](https://github.com/Matthew-Lyu/Matthew-Lyu/).
+-  Email: lyuwch03@gmail.com
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 
 
