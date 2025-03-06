@@ -5,7 +5,9 @@
 <!--<img src="./assets/image-20240714192038908.png" width="650px">-->
 <!--</div>-->
 
-### Hi there👋
+![image-20240714185148055](./assets/name.png)
+
+### <!--Hi there👋-->
 
 ### Personal Introduction 
 
