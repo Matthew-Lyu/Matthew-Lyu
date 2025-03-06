@@ -5,9 +5,9 @@
 <!--<img src="./assets/image-20240714192038908.png" width="650px">-->
 <!--</div>-->
 
-![image-20240714185148055](./assets/name.png)
+![image-20240714184502313](./assets/ChiBiFu.png)
 
-### <!--Hi there👋-->
+### Hi there👋
 
 ### Personal Introduction 
 
