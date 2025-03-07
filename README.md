@@ -7,7 +7,12 @@
 
 ![image-20240714184502313](./assets/ChiBiFu.png)
 
-### Hi there👋
+<h1 align="center">
+  Hi, I'm <a href="https://tianxingchen.github.io/" target="_blank">Weichen Lyu (吕韦辰) 👋</a> <br>
+	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmatthew-lyu.github.io&count_bg=%233FDBD2&title_bg=%233D62C7&icon=googlepodcasts.svg&icon_color=%23E9F742&title=Page+Viewers&edge_flat=false"/></a>
+	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Matthew-Lyu">
+	<img alt="GitHub followers" src="https://img.shields.io/github/followers/Matthew-Lyu">
+<br>
 
 ### Personal Introduction 
 
