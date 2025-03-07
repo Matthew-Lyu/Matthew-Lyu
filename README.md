@@ -5,11 +5,10 @@
 <!--<img src="./assets/image-20240714192038908.png" width="650px">-->
 <!--</div>-->
 
-![image-20240714184502313](./assets/ChiBiFu.png)
+<!--![image-20240714184502313](./assets/ChiBiFu.png)-->
 
 <h1 align="center">
   Hi, I'm <a href="https://tianxingchen.github.io/" target="_blank">Weichen Lyu (吕韦辰) 👋</a> <br>
-<br>
 
 ### Homepage: [matthew-lyu.github.io](https://matthew-lyu.github.io//)
 
