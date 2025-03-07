@@ -8,7 +8,7 @@
 <!--![image-20240714184502313](./assets/ChiBiFu.png)-->
 
 <h1 align="center">
-  Hi, I'm <a href="https://tianxingchen.github.io/" target="_blank">Weichen Lyu (吕韦辰) 👋</a> <br>
+  Hi, I'm <a href="https://matthew-lyu.github.io/" target="_blank">Weichen Lyu (吕韦辰) 👋</a> 
 
 ### Homepage: [matthew-lyu.github.io](https://matthew-lyu.github.io//)
 
