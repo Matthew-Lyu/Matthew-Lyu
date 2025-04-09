@@ -16,8 +16,6 @@
 
 - Coming postgrad of the [Department of Automation at Tsinghua University](https://www.au.tsinghua.edu.cn).
 
-- Do research on the interdisciplinary field of information science, passionate about multi-modal deep learning, path planning and control of autonomous vehicle, and ROS operating system.
-
 - ***My aspiration is to ascend the tallest mountains and traverse the longest rivers.***
 
 ### <!--Project Highlights-->
