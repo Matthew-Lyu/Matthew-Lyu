@@ -12,7 +12,7 @@
 
 ### Homepage: [matthew-lyu.github.io](https://matthew-lyu.github.io//)
 
-- Undergrad majoring in [Intelligent Science and Technology](https://ise.sysu.edu.cn) at [Sun Yat-sen University](https://www.sysu.edu.cn).
+- Undergrad majoring in Intelligent Science and Technology at [Sun Yat-sen University](https://www.sysu.edu.cn).
 
 - Coming postgrad of the [Department of Automation at Tsinghua University](https://www.au.tsinghua.edu.cn).
 
