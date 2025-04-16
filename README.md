@@ -14,7 +14,7 @@
 
 - Undergrad majoring in Intelligent Science and Technology at [Sun Yat-sen University](https://www.sysu.edu.cn).
 
-- Coming postgrad of the [Department of Automation](https://www.au.tsinghua.edu.cn) at [Tsinghua University]((https://www.tsinghua.edu.cn)).
+- Coming postgrad of the [Department of Automation](https://www.au.tsinghua.edu.cn) at [Tsinghua University](https://www.tsinghua.edu.cn).
 
 - ***My aspiration is to ascend the tallest mountains and traverse the longest rivers.***
 
@@ -31,8 +31,6 @@
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matthew-Lyu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Lyu&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 <!--![image-20240714184502313](./assets/ChiBiFu.png)-->
 
