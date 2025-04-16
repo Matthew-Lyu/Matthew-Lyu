@@ -14,7 +14,7 @@
 
 - Undergrad majoring in Intelligent Science and Technology at [Sun Yat-sen University](https://www.sysu.edu.cn).
 
-- Coming postgrad of the [Department of Automation at Tsinghua University](https://www.au.tsinghua.edu.cn).
+- Coming postgrad of the [Department of Automation](https://www.au.tsinghua.edu.cn) at [Tsinghua University]((https://www.tsinghua.edu.cn)).
 
 - ***My aspiration is to ascend the tallest mountains and traverse the longest rivers.***
 
